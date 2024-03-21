@@ -20,7 +20,7 @@ module.exports = {
   SUDO_NUMBERS : "94715166712,94719574492,94712686646",
   OWNER_NAME: "©𝙽𝙸𝚁𝙼𝙰𝙻°",
   BOT_NAME : "ＺＵＳＹＣＯ",
-  ZUSYCO_FILE : "ZUSYCO-QR-2",
+  ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
     ALIVE: 'https://telegra.ph/file/cf8b30ac9c904c3dcb4ba.jpg',
     WELCOME: 'https://i.ibb.co/PzhpBV7/WELCOME-IMAGE-LOWQ.jpg',
